@@ -1,6 +1,8 @@
 # purgerForE621andR34xxxTags
 Credit to pikaft-e621-posts-downloader by pikaflufftuft and Ruxx by trickerer01 for creating a way to download images with tags
 
+Create a folder named "input" and "output"
+
 If you download using Ruxx(https://github.com/trickerer01/Ruxx) then the order goes as follows
 filerenamer.py, parser.py, purger.py
 must have rx option enabled
